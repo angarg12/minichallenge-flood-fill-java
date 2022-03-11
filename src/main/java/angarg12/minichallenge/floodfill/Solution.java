@@ -1,4 +1,4 @@
-package angarg12.minichallenge.hashmap;
+package angarg12.minichallenge.floodfill;
 
 /*
 An image is represented by an m x n integer grid image where image[i][j] represents the pixel value of the image.

@@ -1,4 +1,4 @@
-package angarg12.minichallenge.hashmap;
+package angarg12.minichallenge.floodfill;
 
 import org.junit.jupiter.api.Test;
 
