@@ -6,4 +6,6 @@ This is Java code for the Flood Fill minichallenge.
 
 ## Running
 
+* Make sure that you have java and maven installed, e.g. `sudo yum install java maven`
+* NOTE: This project works with Java 17. Other java versions might require changes to the pom file.
 * To run the unit tests `mvn test`
